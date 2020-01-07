@@ -1,0 +1,1014 @@
+[2019-12-05 23:16:48] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 15' at line 2 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-05 23:16:48] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-05 23:16:49] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 15' at line 2 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-05 23:16:50] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 15' at line 2 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-05 23:16:51] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 15' at line 2 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-05 23:16:51] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-05 23:17:03] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0, 15' at line 2 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-05 23:17:04] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0, 15' at line 2 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-05 23:17:44] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0, 15' at line 2 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-05 23:17:45] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0, 15' at line 2 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-05 23:24:57] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-05 23:25:02] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-05 23:25:08] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-05 23:26:56] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-05 23:27:00] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-05 23:28:59] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-05 23:28:59] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 10:20:36] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 10:22:31] TEXT ERROR: Метод app\controllers\admin\UserController::indexAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-11 10:22:31] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 10:22:50] TEXT ERROR: Метод app\controllers\admin\UserController::indexAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-11 10:23:33] TEXT ERROR: Контроллер app\controllers\admin\ProductController не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 42
+=====================
+[2019-12-11 10:23:36] TEXT ERROR: Контроллер app\controllers\admin\ProductController не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 42
+=====================
+[2019-12-11 10:24:59] TEXT ERROR: Контроллер app\controllers\admin\CategoryController не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 42
+=====================
+[2019-12-11 10:32:14] TEXT ERROR: Метод app\controllers\admin\UserController::indexAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-11 10:32:19] TEXT ERROR: Контроллер app\controllers\admin\ProductController не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 42
+=====================
+[2019-12-11 10:57:47] TEXT ERROR: Метод app\controllers\admin\CategoryController::editAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-11 10:57:54] TEXT ERROR: Метод app\controllers\admin\CategoryController::addAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-11 11:10:56] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 11:27:03] TEXT ERROR: Метод app\controllers\admin\CategoryController::editAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-11 11:51:48] TEXT ERROR: Метод app\controllers\admin\CategoryController::addAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-11 11:51:48] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 11:54:04] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 11:59:15] TEXT ERROR: Контроллер app\controllers\admin\ProductController не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 42
+=====================
+[2019-12-11 11:59:15] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 11:59:22] TEXT ERROR: Контроллер app\controllers\admin\CacheController не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 42
+=====================
+[2019-12-11 11:59:22] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 11:59:30] TEXT ERROR: Метод app\controllers\admin\UserController::indexAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-11 12:06:09] TEXT ERROR: Метод app\controllers\admin\CategoryController::addAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-11 12:06:09] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 12:06:17] TEXT ERROR: Метод app\controllers\admin\UserController::indexAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-11 12:06:25] TEXT ERROR: Контроллер app\controllers\admin\CacheController не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 42
+=====================
+[2019-12-11 12:13:34] TEXT ERROR: Контроллер app\controllers\admin\CacheController не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 42
+=====================
+[2019-12-11 12:13:37] TEXT ERROR: Контроллер app\controllers\admin\CacheController не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 42
+=====================
+[2019-12-11 23:10:31] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 23:35:16] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 23:35:16] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 23:35:18] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 23:35:19] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 23:35:21] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 23:35:21] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 23:35:22] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 23:35:22] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 23:35:23] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 23:35:32] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 23:35:32] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 23:37:50] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-11 23:56:15] TEXT ERROR: Метод app\controllers\admin\CategoryController::editAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-11 23:56:15] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-12 12:30:03] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-12 12:53:12] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-12 12:53:25] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-12 12:53:31] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-12 12:53:45] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-12 12:55:20] TEXT ERROR: Метод app\controllers\admin\CategoryController::editAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-12 12:55:20] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-12 13:26:17] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\app\controllers\admin\AppController.php | LINE: 32
+=====================
+[2019-12-12 14:18:53] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-12 14:19:27] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-12 14:21:02] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-12 14:21:08] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-12 14:21:20] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-12 14:21:25] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-12 14:21:26] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-12 14:21:27] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-12 14:21:27] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-12 14:21:28] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-12 14:21:32] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-12 14:21:39] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-16 11:06:01] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-16 11:10:51] TEXT ERROR: Метод app\controllers\admin\UserController::indexAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-16 11:10:51] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-16 11:46:53] TEXT ERROR: Метод app\controllers\admin\UserController::editAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-16 12:02:27] TEXT ERROR: Метод app\controllers\admin\UserController::addAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-16 14:36:51] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-18 11:22:09] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-18 11:22:35] TEXT ERROR: Контроллер app\controllers\admin\ProductController не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 42
+=====================
+[2019-12-18 11:22:35] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-18 11:28:20] TEXT ERROR: Метод app\controllers\admin\UserController::addAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-18 11:28:34] TEXT ERROR: Метод app\controllers\admin\UserController::addAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-18 11:56:19] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\app\controllers\admin\AppController.php | LINE: 32
+=====================
+[2019-12-18 11:58:16] TEXT ERROR: Метод app\controllers\admin\UserController::signupAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-18 11:59:12] TEXT ERROR: Метод app\controllers\admin\UserController::signupAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-18 12:03:55] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-18 12:21:14] TEXT ERROR: syntax error, unexpected ')' | FILE: E:\OSPanel\domains\dshop\app\views\Admin\User\edit.php | LINE: 78
+=====================
+[2019-12-18 12:24:49] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-18 12:29:09] TEXT ERROR: syntax error, unexpected ')' | FILE: E:\OSPanel\domains\dshop\app\controllers\admin\UserController.php | LINE: 60
+=====================
+[2019-12-18 12:29:12] TEXT ERROR: syntax error, unexpected ')' | FILE: E:\OSPanel\domains\dshop\app\controllers\admin\UserController.php | LINE: 60
+=====================
+[2019-12-18 12:33:10] TEXT ERROR: Контроллер app\controllers\admin\ProductController не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 42
+=====================
+[2019-12-18 12:33:10] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-18 12:33:27] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-18 12:49:43] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-18 12:49:52] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-18 13:08:48] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'GROUP BY `order`.`id` ORDER BY `order`.`status`, `order`.`id`' at line 4 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-18 13:09:19] TEXT ERROR: Identifier does not conform to RedBeanPHP security policies. | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | LINE: 772
+=====================
+[2019-12-18 13:10:22] TEXT ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order_product.price' in 'field list' | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-18 13:10:53] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE user_id=20' at line 2 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-18 13:11:11] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE user_id=20' at line 2 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-18 13:11:12] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE user_id=20' at line 2 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-18 13:11:12] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE user_id=20' at line 2 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-18 13:11:22] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE user_id=20' at line 2 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-18 13:11:22] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE user_id=20' at line 2 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-18 13:11:23] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE user_id=20' at line 2 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-18 13:11:23] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE user_id=20' at line 2 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-18 13:11:23] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE user_id=20' at line 2 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-18 13:11:24] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE user_id=20' at line 2 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-18 13:11:24] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE user_id=20' at line 2 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-18 13:11:24] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE user_id=20' at line 2 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-18 13:40:07] TEXT ERROR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user5' for key 'login' | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-18 13:41:26] TEXT ERROR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user5' for key 'login' | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-18 13:41:29] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\app\controllers\admin\AppController.php | LINE: 32
+=====================
+[2019-12-18 13:41:48] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\app\controllers\admin\AppController.php | LINE: 32
+=====================
+[2019-12-18 13:43:02] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\app\controllers\admin\AppController.php | LINE: 32
+=====================
+[2019-12-18 13:43:03] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\app\controllers\admin\AppController.php | LINE: 32
+=====================
+[2019-12-18 13:43:04] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\app\controllers\admin\AppController.php | LINE: 32
+=====================
+[2019-12-18 13:43:21] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\app\controllers\admin\AppController.php | LINE: 32
+=====================
+[2019-12-18 13:44:36] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\app\controllers\admin\AppController.php | LINE: 32
+=====================
+[2019-12-18 13:44:41] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\app\controllers\admin\AppController.php | LINE: 32
+=====================
+[2019-12-18 13:52:16] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-18 14:07:49] TEXT ERROR: Identifier does not conform to RedBeanPHP security policies. | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | LINE: 772
+=====================
+[2019-12-18 14:08:23] TEXT ERROR: Identifier does not conform to RedBeanPHP security policies. | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | LINE: 772
+=====================
+[2019-12-18 14:08:50] TEXT ERROR: Identifier does not conform to RedBeanPHP security policies. | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | LINE: 772
+=====================
+[2019-12-18 14:08:51] TEXT ERROR: Identifier does not conform to RedBeanPHP security policies. | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | LINE: 772
+=====================
+[2019-12-18 20:01:06] TEXT ERROR: Unsupported operand types | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\libs\Pagination.php | LINE: 65
+=====================
+[2019-12-18 20:01:50] TEXT ERROR: Identifier does not conform to RedBeanPHP security policies. | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | LINE: 772
+=====================
+[2019-12-18 20:01:51] TEXT ERROR: Identifier does not conform to RedBeanPHP security policies. | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | LINE: 772
+=====================
+[2019-12-18 20:02:27] TEXT ERROR: Identifier does not conform to RedBeanPHP security policies. | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | LINE: 772
+=====================
+[2019-12-18 20:02:28] TEXT ERROR: Identifier does not conform to RedBeanPHP security policies. | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | LINE: 772
+=====================
+[2019-12-18 20:03:28] TEXT ERROR: Unsupported operand types | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\libs\Pagination.php | LINE: 65
+=====================
+[2019-12-18 20:03:54] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order' at line 1 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-18 20:04:19] TEXT ERROR: Unsupported operand types | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\libs\Pagination.php | LINE: 65
+=====================
+[2019-12-18 20:05:35] TEXT ERROR: Unsupported operand types | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\libs\Pagination.php | LINE: 65
+=====================
+[2019-12-18 20:10:23] TEXT ERROR: Identifier does not conform to RedBeanPHP security policies. | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | LINE: 772
+=====================
+[2019-12-18 20:10:25] TEXT ERROR: Identifier does not conform to RedBeanPHP security policies. | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | LINE: 772
+=====================
+[2019-12-18 20:10:44] TEXT ERROR: Identifier does not conform to RedBeanPHP security policies. | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | LINE: 772
+=====================
+[2019-12-18 20:10:45] TEXT ERROR: Identifier does not conform to RedBeanPHP security policies. | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | LINE: 772
+=====================
+[2019-12-18 20:11:03] TEXT ERROR: Unsupported operand types | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\libs\Pagination.php | LINE: 65
+=====================
+[2019-12-19 10:45:24] TEXT ERROR: Метод app\controllers\admin\ProductController::addAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-19 10:45:24] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:40:12] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:40:17] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:40:28] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:40:38] TEXT ERROR: Метод app\controllers\ProductController::indexAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-19 13:40:38] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:40:44] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:40:56] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:41:15] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:41:23] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:41:25] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:41:25] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:41:25] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:41:25] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:41:26] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:41:26] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:41:26] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:41:26] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:41:26] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:41:26] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:41:34] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:41:41] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:41:42] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:42:31] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:42:57] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:43:07] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:43:17] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:43:21] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:43:30] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:44:46] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:44:49] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:45:56] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:45:59] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:46:02] TEXT ERROR: Метод app\controllers\CategoryController::indexAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-19 13:46:05] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:46:08] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:46:09] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:46:17] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:46:19] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:46:22] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:46:22] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:46:27] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:46:27] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:46:29] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:46:32] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:46:49] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:46:52] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:46:53] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:46:55] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:46:55] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:46:59] TEXT ERROR: Метод app\controllers\CategoryController::indexAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-19 13:47:02] TEXT ERROR: Метод app\controllers\CategoryController::indexAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-19 13:47:02] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:47:07] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:47:08] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:47:10] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:47:13] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:47:13] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:47:39] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:47:59] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:48:21] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:48:42] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:48:51] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:48:51] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:48:52] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:48:57] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:49:37] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:49:44] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:49:51] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:50:02] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:50:05] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:51:55] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:52:12] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:52:20] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:52:24] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:56:34] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:56:43] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:00] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:59:04] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:10] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:59:20] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:27] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:30] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:30] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:59:30] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:30] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:59:31] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:31] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:59:32] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:32] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:59:32] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:32] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:59:32] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:32] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:59:33] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:33] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:59:33] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:33] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:59:33] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:33] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:59:33] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:33] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:59:33] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:33] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:59:34] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:34] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:59:34] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:34] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:59:34] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:34] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:59:34] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:34] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:59:36] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:36] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:59:36] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:36] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 13:59:37] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 13:59:37] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:00:27] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 14:00:29] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:01:00] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 14:01:07] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 14:02:15] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:02:19] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 14:02:54] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:02:57] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 14:02:57] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:03:00] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:03:24] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:03:37] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:03:41] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 14:03:46] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:03:50] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:03:55] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:03:57] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:03:59] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:04:03] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:04:05] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:04:07] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:04:08] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:04:10] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:04:12] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:04:14] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:04:16] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:04:18] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:04:20] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:04:22] TEXT ERROR: Class 'mysql_xdevapi\Exception' not found | FILE: E:\OSPanel\domains\dshop\app\controllers\CategoryController.php | LINE: 21
+=====================
+[2019-12-19 14:04:31] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:05:34] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:05:49] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-19 14:07:41] TEXT ERROR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias' | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-19 14:07:41] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 10:54:59] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 11:11:08] TEXT ERROR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias' | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-20 11:11:08] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 11:12:08] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 11:12:13] TEXT ERROR: Метод app\controllers\ProductController::indexAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-20 11:12:17] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 11:12:44] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 11:19:48] TEXT ERROR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias' | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-20 11:22:33] TEXT ERROR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias' | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-20 11:22:34] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 12:16:21] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 12:19:12] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 12:19:41] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 12:19:46] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 12:24:33] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 12:44:16] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 12:44:51] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 12:45:31] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 13:14:30] TEXT ERROR: syntax error, unexpected end of file | FILE: E:\OSPanel\domains\dshop\public\filter\admin_filter_tpl.php | LINE: 42
+=====================
+[2019-12-20 13:14:30] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 13:15:01] TEXT ERROR: syntax error, unexpected end of file | FILE: E:\OSPanel\domains\dshop\public\filter\admin_filter_tpl.php | LINE: 42
+=====================
+[2019-12-20 13:15:17] TEXT ERROR: syntax error, unexpected end of file | FILE: E:\OSPanel\domains\dshop\public\filter\admin_filter_tpl.php | LINE: 42
+=====================
+[2019-12-20 13:15:18] TEXT ERROR: syntax error, unexpected end of file | FILE: E:\OSPanel\domains\dshop\public\filter\admin_filter_tpl.php | LINE: 42
+=====================
+[2019-12-20 13:15:18] TEXT ERROR: syntax error, unexpected end of file | FILE: E:\OSPanel\domains\dshop\public\filter\admin_filter_tpl.php | LINE: 42
+=====================
+[2019-12-20 13:15:20] TEXT ERROR: syntax error, unexpected end of file | FILE: E:\OSPanel\domains\dshop\public\filter\admin_filter_tpl.php | LINE: 42
+=====================
+[2019-12-20 13:15:20] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 13:16:46] TEXT ERROR: syntax error, unexpected end of file | FILE: E:\OSPanel\domains\dshop\public\filter\admin_filter_tpl.php | LINE: 35
+=====================
+[2019-12-20 13:16:47] TEXT ERROR: syntax error, unexpected end of file | FILE: E:\OSPanel\domains\dshop\public\filter\admin_filter_tpl.php | LINE: 35
+=====================
+[2019-12-20 13:16:54] TEXT ERROR: syntax error, unexpected end of file | FILE: E:\OSPanel\domains\dshop\public\filter\admin_filter_tpl.php | LINE: 35
+=====================
+[2019-12-20 13:16:55] TEXT ERROR: syntax error, unexpected end of file | FILE: E:\OSPanel\domains\dshop\public\filter\admin_filter_tpl.php | LINE: 35
+=====================
+[2019-12-20 13:16:56] TEXT ERROR: syntax error, unexpected end of file | FILE: E:\OSPanel\domains\dshop\public\filter\admin_filter_tpl.php | LINE: 35
+=====================
+[2019-12-20 13:16:56] TEXT ERROR: syntax error, unexpected end of file | FILE: E:\OSPanel\domains\dshop\public\filter\admin_filter_tpl.php | LINE: 35
+=====================
+[2019-12-20 13:16:57] TEXT ERROR: syntax error, unexpected end of file | FILE: E:\OSPanel\domains\dshop\public\filter\admin_filter_tpl.php | LINE: 35
+=====================
+[2019-12-20 13:16:57] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 14:12:25] TEXT ERROR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(5, 50)(9, 50)(15, 50)(19, 50)' at line 1 | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | LINE: 194
+=====================
+[2019-12-20 14:12:25] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 14:22:49] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 14:30:49] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 22:31:57] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 22:47:50] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 22:55:41] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-20 23:13:39] TEXT ERROR: Метод app\controllers\admin\ProductController::relatedProductAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-20 23:15:23] TEXT ERROR: Метод app\controllers\admin\ProductController::relatedProductAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-20 23:15:26] TEXT ERROR: Метод app\controllers\admin\ProductController::relatedProductAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-20 23:15:27] TEXT ERROR: Метод app\controllers\admin\ProductController::relatedProductAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-20 23:15:33] TEXT ERROR: Метод app\controllers\admin\ProductController::relatedProductAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-20 23:15:34] TEXT ERROR: Метод app\controllers\admin\ProductController::relatedProductAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-21 13:01:09] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-21 13:44:04] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-21 13:51:28] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-21 14:59:50] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 12:09:09] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 12:09:41] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 12:09:41] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 12:09:47] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 12:09:48] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 12:11:44] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 12:11:44] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 12:11:47] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 12:11:47] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 12:13:10] TEXT ERROR: Метод app\controllers\admin\ProductController::addImageAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-22 12:55:24] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 12:56:01] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 12:56:04] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 12:56:09] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 12:56:09] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 12:56:09] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 12:56:09] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 12:56:09] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 12:56:09] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 13:03:22] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 22:19:31] TEXT ERROR: Метод app\controllers\admin\ProductController::editAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-22 22:19:31] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 22:34:05] TEXT ERROR: Вид E:\OSPanel\domains\dshop/app/views/admin\Product/edit.php не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\base\View.php | LINE: 41
+=====================
+[2019-12-22 22:34:07] TEXT ERROR: Вид E:\OSPanel\domains\dshop/app/views/admin\Product/edit.php не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\base\View.php | LINE: 41
+=====================
+[2019-12-22 22:34:14] TEXT ERROR: Вид E:\OSPanel\domains\dshop/app/views/admin\Product/edit.php не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\base\View.php | LINE: 41
+=====================
+[2019-12-22 22:34:14] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 23:24:31] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-22 23:24:34] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-23 10:18:23] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-23 10:42:51] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-23 10:42:51] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-23 10:42:51] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-23 10:42:51] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-23 10:42:51] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-23 10:43:01] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-23 10:43:01] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-23 10:43:01] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-23 10:43:01] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-23 10:43:01] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-23 10:43:06] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-23 10:43:06] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-23 10:43:06] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-23 10:43:06] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-23 10:43:06] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-23 12:28:51] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\app\controllers\admin\AppController.php | LINE: 32
+=====================
+[2019-12-23 12:28:51] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-23 12:54:07] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 10:34:16] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 10:35:01] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 10:42:37] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 10:42:48] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 10:45:35] TEXT ERROR: Метод app\controllers\admin\ProductController::deleteAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-24 10:45:35] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 10:45:57] TEXT ERROR: Метод app\controllers\admin\ProductController::deleteAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-24 11:14:32] TEXT ERROR: Контроллер app\controllers\admin\FilterController не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 42
+=====================
+[2019-12-24 12:01:42] TEXT ERROR: Метод app\controllers\admin\FilterController::groupEditAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-24 12:15:38] TEXT ERROR: Метод app\controllers\admin\FilterController::droupAddAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-24 12:15:38] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 12:22:28] TEXT ERROR: Метод app\controllers\admin\FilterController::droupAddAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-24 12:22:28] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 13:20:28] TEXT ERROR: Invalid type: attribute_group | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Util\DispenseHelper.php | LINE: 77
+=====================
+[2019-12-24 13:21:19] TEXT ERROR: Invalid type: attribute_group | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Util\DispenseHelper.php | LINE: 77
+=====================
+[2019-12-24 13:21:35] TEXT ERROR: Invalid type: attribute_group | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Util\DispenseHelper.php | LINE: 77
+=====================
+[2019-12-24 13:21:35] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 13:33:37] TEXT ERROR: Plugin 'xdispense' does not exist, add this plugin using: R::ext('xdispense') | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | LINE: 3128
+=====================
+[2019-12-24 13:40:39] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 13:40:54] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 13:41:21] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 13:41:25] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 13:41:30] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 13:41:44] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 13:42:03] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 13:42:14] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 13:43:02] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 13:43:23] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 13:52:42] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 14:41:48] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 21:54:56] TEXT ERROR: Нет соединения с Базой Данных | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Db.php | LINE: 16
+=====================
+[2019-12-24 21:54:57] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-24 21:55:47] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-25 10:41:35] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-25 10:47:33] TEXT ERROR: Вид E:\OSPanel\domains\dshop/app/views/admin\Filter/attribute.php не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\base\View.php | LINE: 41
+=====================
+[2019-12-25 10:47:33] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-25 11:35:44] TEXT ERROR: Метод app\controllers\admin\FilterController::attributeEditAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-25 11:43:23] TEXT ERROR: Вид E:\OSPanel\domains\dshop/app/views/admin\Filter/attribute-add.php не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\base\View.php | LINE: 41
+=====================
+[2019-12-25 12:13:23] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-25 14:16:01] TEXT ERROR: Метод app\controllers\admin\FilterController::groupEditAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-25 14:16:01] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-25 14:16:43] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 11:16:19] TEXT ERROR: Метод app\controllers\admin\FilterController::attributeEditAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-26 11:16:19] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 11:17:05] TEXT ERROR: Метод app\controllers\admin\FilterController::groupEditAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-26 11:36:21] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 11:37:02] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 11:37:05] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 11:37:08] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 11:37:30] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 11:37:33] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 11:37:56] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 11:38:39] TEXT ERROR: Метод app\controllers\admin\FilterController::attributeEditAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-26 11:38:39] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 11:40:09] TEXT ERROR: Вид E:\OSPanel\domains\dshop/app/views/admin\Filter/attribute-edit.php не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\base\View.php | LINE: 41
+=====================
+[2019-12-26 11:53:05] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 12:12:14] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 12:18:37] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 12:18:39] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 12:18:41] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 12:18:42] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 12:18:43] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 12:18:47] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 12:19:00] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 12:19:03] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 12:19:24] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 12:20:54] TEXT ERROR: Метод app\controllers\admin\FilterController::attributeDeleteAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-26 12:20:54] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 12:55:43] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 12:56:14] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 12:56:22] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 12:56:40] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 12:57:41] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 12:57:43] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 12:57:54] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 13:03:43] TEXT ERROR: Контроллер app\controllers\admin\CurrencyController не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 42
+=====================
+[2019-12-26 13:03:43] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 13:08:46] TEXT ERROR: Вид E:\OSPanel\domains\dshop/app/views/admin\Currency/index.php не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\base\View.php | LINE: 41
+=====================
+[2019-12-26 13:29:04] TEXT ERROR: Метод app\controllers\admin\CurrencyController::editAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-26 13:53:21] TEXT ERROR: Метод app\controllers\admin\CurrencyController::editAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-26 14:28:01] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 14:28:10] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 14:29:42] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 14:30:08] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 20:30:36] TEXT ERROR: Метод app\controllers\admin\CurrencyController::editAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-26 20:30:36] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 20:55:11] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 20:56:55] TEXT ERROR: Вид E:\OSPanel\domains\dshop/app/views/admin\Currency/delete.php не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\base\View.php | LINE: 41
+=====================
+[2019-12-26 21:01:36] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 21:04:18] TEXT ERROR: Метод app\controllers\admin\ProductController::deleteAction не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 39
+=====================
+[2019-12-26 21:07:16] TEXT ERROR: Вид E:\OSPanel\domains\dshop/app/views/admin\Product/delete.php не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\base\View.php | LINE: 41
+=====================
+[2019-12-26 21:26:16] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 21:32:51] TEXT ERROR: Вид E:\OSPanel\domains\dshop/app/views/admin\Product/delete.php не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\base\View.php | LINE: 41
+=====================
+[2019-12-26 21:32:52] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 21:35:34] TEXT ERROR: Вид E:\OSPanel\domains\dshop/app/views/admin\Product/delete.php не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\base\View.php | LINE: 41
+=====================
+[2019-12-26 22:27:50] TEXT ERROR: Вид E:\OSPanel\domains\dshop/app/views/admin\Product/delete.php не найден | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\base\View.php | LINE: 41
+=====================
+[2019-12-26 22:39:46] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\app\controllers\admin\AppController.php | LINE: 32
+=====================
+[2019-12-26 22:39:48] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\app\controllers\admin\AppController.php | LINE: 32
+=====================
+[2019-12-26 23:07:51] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 23:11:26] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 23:11:40] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-26 23:25:02] TEXT ERROR: OODB Store requires a bean, got: array | FILE: E:\OSPanel\domains\dshop\vendor\gabordemooij\redbean\RedBeanPHP\OODB.php | LINE: 119
+=====================
+[2019-12-26 23:43:21] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-29 12:25:59] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-29 12:31:55] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2019-12-29 13:12:19] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2020-01-07 10:47:42] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2020-01-07 11:28:51] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================
+[2020-01-07 11:34:17] TEXT ERROR: Страница не найдена | FILE: E:\OSPanel\domains\dshop\vendor\dshop\core\Router.php | LINE: 45
+=====================

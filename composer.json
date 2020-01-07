@@ -1,0 +1,16 @@
+{
+    "autoload": {
+        "psr-4": {
+            "dshop\\": "vendor/dshop/core",
+            "app\\": "app"
+        }
+    },
+
+    "require": {
+        "gabordemooij/redbean": "dev-master",
+      "ext-mysqli": "*",
+        "vlucas/valitron": "^1.4",
+        "swiftmailer/swiftmailer": "^6.2",
+      "ext-cassandra": "*"
+    }
+}
