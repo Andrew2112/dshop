@@ -1,13 +1,13 @@
 <?php
 return [
-    'admin_email' => 'andrey211271@gmail.com',
+    'admin_email' => 'Andrew1971@mail.ru',
     'shop_name' => 'Магазин dshop',
     'pagination' => 6,
-    'smtp_host' => 'smtp.gmail.com',
+    'smtp_host' => 'smtp.mail.ru',
     'smtp_port' => '465',
     'smtp_protocol' => 'ssl',
-    'smtp_login' => 'andrey211271@gmail.com',
-    'smtp_password' => 'andrew2112',
+    'smtp_login' => 'Andrew1971@mail.ru',
+    'smtp_password' => 'asd',
     'img_width' => 125,
     'img_height' => 200,
     'gallery_width' => 700,
